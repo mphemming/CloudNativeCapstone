@@ -1,0 +1,11 @@
+duckdb
+dask[dataframe]
+s3fs
+botocore
+pandas
+matplotlib
+cartopy
+geopandas
+shapely
+fsspec
+pyarrow
